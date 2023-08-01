@@ -1,5 +1,5 @@
 # WordPress to Discord Webhook Integration
-[![License](https://img.shields.io/github/license/xd12r/Wordpress-xDr-Webhook?color=green)](https://github.com/xd12r/Wordpress-xDr-Webhook)
+[![License](https://img.shields.io/github/license/xd12r/Wordpress-xDr-Webhook?color=green)](https://github.com/xd12r/Wordpress-xDr-Webhook/blob/main/LICENSE)
 
 This plugin works with Node.js Discord Bot for Webhook Integration
 This project provides a WordPress plugin that integrates your WordPress website with a Discord server via webhooks. With it, you can have real-time updates sent to your Discord server whenever a new post is published on your WordPress website.
