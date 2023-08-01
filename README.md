@@ -9,9 +9,11 @@ This project provides a WordPress plugin that integrates your WordPress website 
 
 ## Project that works together
 
-| Name | Information |
-|---|---|---|
-| [Discord Bot](https://github.com/xd12r/Node.js-WordPress-to-Discord)   |  |
+| Name  | Information |
+| ------------- | ------------- |
+| [Discord Bot](https://github.com/xd12r/Node.js-WordPress-to-Discord)  | ![Release](https://img.shields.io/github/v/release/xd12r/Node.js-WordPress-to-Discord)  |
+| [Wordpress Plugin](https://github.com/xd12r/Node.js-WordPress-to-Discord)  | ![Release](https://img.shields.io/github/v/release/xd12r/Wordpress-xDr-Webhook)  |
+
 
 ## Installation
 
