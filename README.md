@@ -20,10 +20,6 @@ This project provides a WordPress plugin that integrates your WordPress website 
 1. Go to the 'xDr Webhook Plugin' settings page and enter your Discord webhook URL.
 2. Save or publish your post. A notification will be sent to your Discord channel.
 
-## Code Overview
-
-This plugin uses WordPress's `save_post` hook to trigger a function whenever a post is saved. This function retrieves the post details and custom Discord metadata, formats them into a JSON payload, and sends them to the configured Discord webhook URL.
-
 ## Project that works together
 
 | Name  | Release |
@@ -31,7 +27,6 @@ This plugin uses WordPress's `save_post` hook to trigger a function whenever a p
 | [Discord Bot](https://github.com/xd12r/Node.js-WordPress-to-Discord)  | [![Bot Release](https://img.shields.io/github/v/release/xd12r/Node.js-WordPress-to-Discord)](https://github.com/xd12r/Node.js-WordPress-to-Discord/releases)  |
 | [Wordpress Plugin](https://github.com/xd12r/Wordpress-xDr-Webhook)  | [![Plugin Release](https://img.shields.io/github/v/release/xd12r/Wordpress-xDr-Webhook)](https://github.com/xd12r/Wordpress-xDr-Webhook/releases)  |
 
-## License
+## Code Overview
 
-Distributed under the GNU GPLv3 License. See `LICENSE` for more information.
-
+This plugin uses WordPress's `save_post` hook to trigger a function whenever a post is saved. This function retrieves the post details and custom Discord metadata, formats them into a JSON payload, and sends them to the configured Discord webhook URL.
